@@ -1,0 +1,8 @@
+server: 10.0.0.1
+server: 10.0.0.2
+server: 10.0.0.3
+server: 10.0.0.4
+
+email: ranjit@email.com
+email: ranjit@gmail.com
+email: ranjit@yahoo.com
